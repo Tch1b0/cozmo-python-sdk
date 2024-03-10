@@ -8,6 +8,8 @@ This fork updates the cozmo-python-sdk to work with python 3.12
 $ pip install git+https://github.com/Tch1b0/cozmo-python-sdk.git#egg=cozmo
 ```
 
+---
+
 ## [Get to the original repository](https://github.com/anki/cozmo-python-sdk)
 
 > ## Anki Cozmo - Python SDK
